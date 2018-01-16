@@ -25,7 +25,7 @@
   "author": "Brett Jankord",
   "license": "MIT",
   "files": [
-    "lib/index.js"
+    "lib/circular-icon-wrapper.js"
   ],
   "bugs": {
     "url": "https://github.com/bjankord/circular-icon-wrapper/issues"
