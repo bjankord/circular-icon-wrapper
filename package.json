@@ -1,0 +1,27 @@
+{
+  "name": "circular-icon-wrapper",
+  "version": "0.0.0",
+  "description": "A react SVG component for rendering SVG icons in a circle Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjankord/circular-icon-wrapper.git"
+  },
+  "keywords": [
+    "react",
+    "icon-wrapper",
+    "circle",
+    "circular",
+    "svg",
+    "icon"
+  ],
+  "author": "Brett Jankord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjankord/circular-icon-wrapper/issues"
+  },
+  "homepage": "https://github.com/bjankord/circular-icon-wrapper#readme"
+}
