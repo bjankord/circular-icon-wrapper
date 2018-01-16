@@ -2,7 +2,7 @@
   "name": "circular-icon-wrapper",
   "version": "0.0.0",
   "description": "A react SVG component for rendering SVG icons in a circle Edit",
-  "main": "lib/index.js",
+  "main": "lib/circular-icon-wrapper.js",
   "scripts": {
     "storybook": "start-storybook -p 9001 -c .storybook",
     "build": "babel src -d lib",
